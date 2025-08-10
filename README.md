@@ -463,16 +463,24 @@ If you encounter any issues:
    - Browser version and operating system
    - Console error messages if any
 
+---
+
 ## 👨‍💻 Author
 
-**Nishkarsh Sharma**  
-*Full-Stack Developer & UI/UX Enthusiast*
+<div align="center">
+  <img src="https://github.com/Nishkarsh0Sharma.png" width="100" height="100" style="border-radius: 50%;" alt="Nishkarsh Sharma">
+  
+  **Nishkarsh Sharma**  
+  *Chrome Extension Developer*
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishkarsh0Sharma)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishkarsh-sharma-20689b269/)
+  
+  📧 **Email**: [nishkarshsharma2004@gmail.com](mailto:nishkarshsharma2004@gmail.com)  
+  💬 **Feel free to reach out for collaboration, questions, or feedback!**
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nishkarsh0Sharma-black?logo=github)](https://github.com/Nishkarsh0Sharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nishkarsh-sharma)
-
-📧 **Email**: nishkarshsharma2004@gmail.com  
-💬 **Feel free to reach out for collaboration, questions, or feedback!**
+---
 
 ## 🙏 Acknowledgments
 
